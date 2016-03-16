@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 line of text
 second line 
+=======
+>>>>>>> parent of d95ceda... small changes to all files

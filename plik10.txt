@@ -1,1 +1,0 @@
-line of text plik11.txt bad.txt

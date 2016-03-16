@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 line of text
 third change
+=======
+>>>>>>> parent of d95ceda... small changes to all files
