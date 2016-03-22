@@ -3,7 +3,4 @@ line of text
 <<<<<<< HEAD
 second change
 
-=======
->>>>>>> parent of d95ceda... small changes to all files
-=======
->>>>>>> parent of 7728a57... 5th commit change changes to 3 files
+third line
